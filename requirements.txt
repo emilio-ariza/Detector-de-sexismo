@@ -1,0 +1,19 @@
+# Updated April 2026
+
+# Core ML/NLP libraries
+transformers           # Hugging Face transformers library
+torch                  # PyTorch deep learning framework
+
+# Data processing
+pandas                 # Data manipulation
+numpy                  # Numerical computing
+scikit-learn           # Machine learning utilities
+
+# Visualization & utilities
+matplotlib             # Plotting
+python-dotenv          # Environment variable management (security: secure token handling)
+
+# Notebook
+ipykernel
+ipywidgets
+
